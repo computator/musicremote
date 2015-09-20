@@ -1,0 +1,13 @@
+{
+	"name": "Music Remote Server",
+	"description": "Remotely control music playing on your PC from an Android device or from other web enabled devices.",
+	"version": "0.1",
+	"manifest_version": 2,
+	"app": {
+			"background": {
+					"scripts": [
+							"background.js"
+						]
+				}
+		}
+}
